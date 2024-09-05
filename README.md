@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milosz7
-- 👀 I’m interested in AI programming mostly in ML and Deep learning
-- 🛠️ Technologies that I am currently working with: Python, Scikit-Learn, Pandas, PyTorch
+- 👀 I’m interested in Machine Learning and Functional Programming
+- 🛠️ Technologies that I currently work with: Python, Scikit-Learn, Pandas, Elixir
 
 <!---
 milosz7/milosz7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
